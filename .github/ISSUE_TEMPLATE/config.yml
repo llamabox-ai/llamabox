@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security reports
+    url: mailto:aalhad.dev@gmail.com
+    about: Report security vulnerabilities privately via email.
+  - name: Website
+    url: https://llamabox-ai.github.io
+    about: Visit the LlamaBox marketing site for product details.
